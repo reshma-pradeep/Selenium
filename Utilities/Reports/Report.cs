@@ -101,9 +101,9 @@ namespace SampleWeb.Utilities.Reports
                 htmlStringBuilder.Append("</tbody></table></body></html>");
 
                 // write html string content to a file
+                htmlFilepath = "Testreport.html";
 
-
-                htmlFilepath = ConfigFile.GetAbsoluteFilePath("Results\\Report\\testfile-") + Constant.currentDate  + Constant.currentTime + ".htm";
+                //htmlFilepath = ConfigFile.GetAbsoluteFilePath("Results\\Report\\testfile-") + Constant.currentDate  + Constant.currentTime + ".htm";
 
                 WriteToFile(htmlStringBuilder.ToString(), htmlFilepath);
 
