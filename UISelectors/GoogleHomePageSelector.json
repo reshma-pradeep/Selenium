@@ -1,0 +1,5 @@
+{
+  "Logo": "//*[@id=\"hplogo\"]",
+  "SearchText": "//*[@id=\"tsf\"]/div[2]/div/div[1]/div/div[1]/input",
+  "SearchBtn": "//*[@id=\"tsf\"]/div[2]/div/div[2]/div[2]/div[2]/center/input[1]"
+}

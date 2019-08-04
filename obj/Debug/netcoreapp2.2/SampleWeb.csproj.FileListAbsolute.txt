@@ -1,0 +1,14 @@
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\SampleWeb.deps.json
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\SampleWeb.dll
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\SampleWeb.pdb
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.csprojAssemblyReference.cache
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.csproj.CoreCompileInputs.cache
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.AssemblyInfoInputs.cache
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.AssemblyInfo.cs
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.dll
+C:\Users\reshma.pradeep\source\repos\SampleWeb\obj\Debug\netcoreapp2.2\SampleWeb.pdb
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\SampleWeb.runtimeconfig.json
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\SampleWeb.runtimeconfig.dev.json
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\reshma.pradeep\source\repos\SampleWeb\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll

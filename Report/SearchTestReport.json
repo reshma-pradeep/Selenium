@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that google search functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Verify google home page",
+      "expectedResult": "User is able to verify google home page",
+      "actualResultPass": "User was able to verify google home page",
+      "actualResultFail": "User was not able to verify google home page"
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter search text.Capture screenshot.",
+      "expectedResult": "User is able to enter search text",
+      "actualResultPass": "User was able to enter search text",
+      "actualResultFail": "User was not able to enter search text"
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Press 'Google Search' button",
+      "expectedResult": "User is able to press 'Google Search' button",
+      "actualResultPass": "User was able to press 'Google Search' button",
+      "actualResultFail": "User was not able to press 'Google Search' button"
+    }
+  ]
+}

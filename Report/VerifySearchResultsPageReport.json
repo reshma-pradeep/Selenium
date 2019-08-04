@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify google search result page.",
+      "stepName": "1",
+      "stepDescription": "Verify google search result page.Capture Screenshot.",
+      "expectedResult": "User is able to verify google search result page",
+      "actualResultPass": "User was able to verify google search result page",
+      "actualResultFail": "User was not able to verify google search result page"
+    }
+  ]
+}
